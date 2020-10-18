@@ -1,2 +1,2 @@
 # SORMAS-Glossary
-This glossary contain definitions of all the entities and attributes in SORMAS.
+This glossary contains the definitions of all the entities and attributes in SORMAS.
