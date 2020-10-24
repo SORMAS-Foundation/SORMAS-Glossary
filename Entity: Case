@@ -70,6 +70,5 @@ Social security number of case-person. For countries that use social security nu
 The current and the previous hospitalizations
 36.	Hospital name
 The name of the hospital where the case is currently located. This information is entered when creating or editing the case data.
-
 37.	Symptoms
 Collection of all the symptoms presented by the case
