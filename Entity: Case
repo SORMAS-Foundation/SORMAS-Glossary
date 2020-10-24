@@ -1,0 +1,75 @@
+1.	Case ID 
+The case identification number is unique for each case. It is system generated and should not be used in any abbreviated form. This number cannot be edited by the user.
+2.	EPID Number
+A unique number to identify cases of a specific disease. It is automatically generated, but it can be edited according to the regulations/nomenclature of the local health department.
+3.	Date of report
+The earliest date that the case was made known to a public health authority (e.g. hospital, local health department, clinician etc.)
+4.	Date of report
+The earliest date that the case was made known to a public health authority (e.g. hospital, local health department, clinician etc.)
+5.	Reporting user
+User account that registered the case in SORMAS
+6.	Reporting user
+User account that registered the case in SORMAS
+7.	Classifying user
+User account that classified the case from “not yet classified” to any other classification
+8.	Case classification
+Classification assigned to a case
+9.	Date of classification
+Date a case was classified to any other category apart from the default “Not yet classified”
+10.	Investigation status
+Information on the investigation status (the activity of the public health officer): pending/done/discarded investigation
+11.	Investigation date
+Start date of an investigation
+12.	Disease
+Type of disease (working diagnosis) of a case
+13.	Outcome of case
+Status of the case at the end of the clinical course: recovered or deceased.
+14.	Case origin
+Place where a case was identified. Either port of entry (ground crossing or air port or sea port) or in-country (e.g. hospital, home, school, care home)
+15.	Region
+Region in the country where a case was identified (this might not be the region of residence of the person as documented/captured under “case person”).
+16.	District
+District within a region where a case was identified (this might not be the district of residence of the person as documented/captured under “case person”).
+17.	Community
+Community within a region where the case was identified (this might not be the community of residence of the person as documented/captured under “case person”).
+18.	Health facility
+Health facility within the community where a case was identified. Where available, select name of medical care facility from the drop-down menu
+19.	Report GPS latitude/longitude/accuracy in metres
+Place where the case was reported. Using a mobile device, the fields are filled automatically or it can be entered manually with information from any GPS device
+20.	Quarantine (place of quarantine)
+A place (home, designated facility, etc.) where persons who were exposed to a contagious disease are kept separated from the general population under restricted movement to see if they become sick within the incubation period of the disease in question). 
+21.	Name of responsible surveillance officer
+A public health officer at the district level who has been assigned the responsibility/task of following-up on a case.
+22.	Name of responsible clinician
+The name of a clinician in charge of a case
+23.	General comment
+Any additional information or remark related to the case.
+24.	Archive
+Refers to old cases that are not necessary for the daily work (e.g. recovered cases) that have been stored away from the user interface of the system. Thus, archived cases are not loaded by default to the user interface of the system, and this is important in order not to slow down system’s processing speed. Should the user wants to see archived cases in the case directory, a click on the case directory will open a pull-down menu next to “active cases”. The may now select “archived cases” or “all cases”.
+25.	Delete
+“Soft delete”. Cases are deleted from the statistics/export/view of the user but they are still maintained in the data base and tacked as “deleted”.  These cases can technically be removed. Only cases created by error should be deleted. Otherwise never delete a case!!
+26.	Discard
+If you made a change and you decide not to save the changes, click discard.
+27.	Save
+Clicking on this change will save any changes made
+28.	Present condition
+The  condition of a person at the time she/he becomes a case: There are 3 possibilities viz. alive, dead, and buried.
+29.	Alive
+Case is alive irrespective of clinical condition
+30.	Date of Death
+Case has been certified clinically dead
+31.	Buried
+Status and type of burial
+32.	Responsible disease
+Specify the epidemic disease that caused the death
+33.	National health number
+Social security number of case-person. For countries that use social security number, the number uniquely identifies the person. Duplicate detection in SORMAS uses this number in addition to the date of birth and the name of the case-person.
+34.	National health number
+Social security number of case-person. For countries that use social security number, the number uniquely identifies the person. Duplicate detection in SORMAS uses this number in addition to the date of birth and the name of the case-person.
+35.	Hospitalisation
+The current and the previous hospitalizations
+36.	Hospital name
+The name of the hospital where the case is currently located. This information is entered when creating or editing the case data.
+
+37.	Symptoms
+Collection of all the symptoms presented by the case
