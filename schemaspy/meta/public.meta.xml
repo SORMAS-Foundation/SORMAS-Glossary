@@ -1,0 +1,8 @@
+<schemaMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemaspy.org/xsd/6/schemameta.xsd" >
+    <comments>This is SORMAS Database</comments>
+    <tables>
+        <table name="cases" comments="This table contains all the cases of SORMAS">
+            <column name="uuid" comments="This contains an UUID for each case"/>
+        </table>
+    </tables>
+</schemaMeta>
