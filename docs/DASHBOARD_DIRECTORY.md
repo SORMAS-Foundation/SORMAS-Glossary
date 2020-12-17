@@ -7,8 +7,10 @@ Epidemiological dashboards are digital innovations for real-time visualisation o
 ## **Overview of Dashboard Directory on SORMAS**
 
 The  SORMAS dashboard has two sections viz. surveillance and contacts; each displayed at a time. These are represented by tabs on the upper right corner of the screen. There are multiple filters for selecting variables of interest e.g. disease, time, etc.
+
 **Surveillance Dashboard**
 The Surveillance dashboard has two sections. The upper section displays summary information of case  counts of each infectious disease for specified time interval of notification. This is accompanied by  graphical display of the difference in number of cases between any two specified time intervals. The lower section displays an epidemiological curve, case status map and indicators for each disease; one at a time. The dashboard has  filters for displaying information of specified diseases, times, and places.
+
 **Contact Dashboard**
 The contact dashboard displays summary information of individuals reported to have come into contact with probable or confirmed cases of  infectious diseases. For a selected disease of interest, the types of contact information displayed include: number of contacts, follow-up status chart and spatial distribution  of contacts.
 
