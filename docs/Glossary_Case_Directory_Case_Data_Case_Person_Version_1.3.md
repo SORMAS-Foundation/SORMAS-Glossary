@@ -2,7 +2,7 @@
 
 1. **ATC code:** The code assigned to a vaccine by Anatomical Therapeutic Chemical (ATC) classification system of the WHO.
 2. **Batch Number:** The numeric or alphanumeric designation of a vaccine for identifying and tracing the vaccine by manufacturer, date of production and other unique information.
-3. **Blood/organ/tissue donation in the last 6 months:**To state whether or not a case has donated any one of these in preceding 6 months to report date.
+3. **Blood/organ/tissue donation in the last 6 months:** To state whether or not a case has donated any one of these in preceding 6 months to report date.
 4. **Cancel follow-up:** To indicate the decision to stop follow-up of a case.
 5. **Case classification:** The classification assigned to a case according to case definition.
 6. **Case ID:** A system-generated non-editable unique case identification number.
