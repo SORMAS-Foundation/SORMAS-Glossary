@@ -11,7 +11,7 @@ Surveillance activities and outbreak responses often rely on the coordination of
 3.	**Associated link:** It directs the user to the cases, contacts, or events for which a task is assigned.
 4.	**Comments on execution:** Any users’ comments on the execution of the task, e.g. updates, challenges encountered, request for clarification etc.
 5.	**Comments on tasks:** Any users’ general comments to the specific task.
-6.	**Due date: **The date by which an assigned task should be completed. 
+6.	**Due date:** The date by which an assigned task should be completed. 
 7.	**Suggested start:** The recommended date by which a newly assigned task should start.
 8.	**Task context:** This represents the entity (case, contact, event) or general aspects of response to which the task is associated.
 9. **Task priority:** An indication of the urgency with which a task should be executed (high, normal, low).
