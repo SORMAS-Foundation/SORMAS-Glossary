@@ -118,7 +118,7 @@ This section contains information about a person entity in SORMAS. A person can 
 36. **Phone number:** The phone number of the person.
 37. **Postal code:** Postal code of the person’s address.
 38. **Present condition of person:** To specify condition of the person at the time of reporting, namely alive, dead, buried, or unknown.
-39. **Region:** The region of the person.
+39. **Region:** The region of the person's address.
 40. **Salutation:** The greeting before the name of the person, e.g., Dear sir, Dear family, etc.
 41. **Sex:** The sex of the person.
 42. **Staff of armed forces:** To state if the person is, or has close associations with the military.
