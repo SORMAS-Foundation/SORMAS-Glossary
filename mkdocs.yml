@@ -18,5 +18,5 @@ plugins:
     separator: '[\s]+'
 
 nav:
-- Dashboard Directory: "DASHBOARD_DIRECTORY_ordered.md"
+- Dashboard: "DASHBOARD_DIRECTORY_ordered.md"
 - Tasks Management: "TASKS_MANAGEMENT_DIRECTORY.md"
