@@ -1,5 +1,3 @@
-## DASHBOARD DIRECTORY
-
 ### Brief Notes
 
 Epidemiological dashboards are digital innovations for real-time visualisation of multiple streams of related data for purposes of surveillance and outbreak management. By these attributes, dashboards facilitate informed decision making using multiple combinations of indicators and figures obtained from data analyses. In this way, dashboards improve situational awareness - especially for ongoing outbreak responses. Aside from providing visuals for speedy situational assessment, epidemiological dashboards reduce information floods that may result from multiple sources of data, and minimise workflow interruptions – e.g. by having to manually perform periodic analyses of incoming data.
