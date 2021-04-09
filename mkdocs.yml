@@ -19,4 +19,4 @@ plugins:
 
 nav:
 - Dashboard: "DASHBOARD_DIRECTORY_ordered.md"
-- Tasks Management: "TASKS_MANAGEMENT_DIRECTORY.md"
+- Tasks Management: "TASKS_MANAGEMENT_DIRECTORY_Ordered.md"
