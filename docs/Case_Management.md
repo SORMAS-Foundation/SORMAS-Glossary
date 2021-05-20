@@ -11,13 +11,13 @@ Based on the applicable criteria, cases are generally classified into three cate
 **Suspected case:** a person that exhibits compatible clinical signs and/or symptoms of a given disease or syndrome, but without laboratory confirmation. 
 **Probable case:** a person that exhibits compatible clinical features and has an epidemiological link to a confirmed case or an outbreak, but without laboratory confirmation. **Confirmed case:** a person that has a laboratory confirmation of disease or syndrome (at least one positive pathogen test for an infectious disease) with or without clinical symptoms or epidemiological link. 
 
-## **Overview of Case Glossary**
+## Overview of Case Glossary
 
 The default view of the case directory displays the list of cases in the system. It also has icons to permit users to perform operations such as creating a case, importing list of cases, exporting cases from the system, and bulk editing of cases. It also displays filters, for viewing the case lists by desired variables. The detailed view displays the list of cases with more variables. The follow-up view displays cases under monitoring (follow-up) with information on the daily status of each case over the follow-up period. 
 
 For a detailed understanding of the filters and icons on the case directory, we recommend that you first read the section titled “Case Entity”
 
-### **Case Directory: Default and Detailed Views**
+### Case Directory: Default and Detailed Views
 
 1. **Active cases:** To filter active cases. Active cases are those that are still under investigation, follow-up, or clinical management. 
 2.	**All cases:** To display both active and archived cases.
