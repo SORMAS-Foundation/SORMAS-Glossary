@@ -1,4 +1,4 @@
-## **Brief Notes**    
+## Brief Notes    
 
 A case of a disease, syndrome, or health condition is determined by a set of standard clinical, laboratory, and epidemiological criteria called case definitions. Case definitions are useful for making uniform decisions of whether or not; an individual has a disease or health event of interest. 
 
