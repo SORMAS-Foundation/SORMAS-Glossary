@@ -1,4 +1,4 @@
-### Brief Notes
+## Brief Notes
 
 Surveillance activities and outbreak responses often rely on the coordination of multidisciplinary teams. A broad classification of personas or user roles in an outbreak response include: hospital informants, surveillance officers, surveillance supervisors (state epidemiologist) contact officers, contact supervisors, case officers, laboratory officers, just to name a few. The task module allows realtime assignment and management of tasks among the different personas which then improves and enhances the overall efficiency of the outbreak response. The classification or context of a task can be general or associated to an entity (case, contact, event). 
 
