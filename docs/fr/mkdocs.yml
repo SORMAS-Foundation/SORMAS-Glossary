@@ -1,3 +1,7 @@
+theme:
+  language: fr
+
+
 nav:
 - Bonjour: "index.md"
 - Dashboard: "dashboard_directory_ordered.md"
