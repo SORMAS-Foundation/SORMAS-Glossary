@@ -1,5 +1,5 @@
 nav:
-- Bonjour: "index.md"
-- hello: "dashboard_directory_ordered.md"
-- world: "task_management_directory_ordered.md"
-- test: "case_management.md"
+  - Bonjour: "index.md"
+  - hello: "dashboard_directory_ordered.md"
+  - world: "task_management_directory_ordered.md"
+  - test: "case_management.md"
