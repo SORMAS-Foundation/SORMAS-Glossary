@@ -9,10 +9,10 @@ theme:
 extra:
   alternate:
     - name: English
-      link: https://hzi-braunschweig.github.io/SORMAS-Glossary/en/
+      link: https://hzi-braunschweig.github.io/SORMAS-Glossary/en/index
       lang: en
     - name: French
-      link: https://hzi-braunschweig.github.io/SORMAS-Glossary/fr/
+      link: https://hzi-braunschweig.github.io/SORMAS-Glossary/fr/index
       lang: fr
   version: 0.10
   palette:
