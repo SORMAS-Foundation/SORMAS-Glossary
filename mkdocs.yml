@@ -11,9 +11,12 @@ extra:
     - name: English
       link: https://hzi-braunschweig.github.io/SORMAS-Glossary/en/
       lang: en
-    - name: French
+    - name: Français
       link: https://hzi-braunschweig.github.io/SORMAS-Glossary/fr/
       lang: fr
+    - name: Deutsch
+      link: https://hzi-braunschweig.github.io/SORMAS-Glossary/de/
+      lang: de
   version: 0.10
   palette:
     primary: 'cyan'
