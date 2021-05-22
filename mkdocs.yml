@@ -18,6 +18,6 @@ plugins:
     separator: '[\s]+'
 
 nav:
-- Dashboard: "DASHBOARD_DIRECTORY_ordered.md"
-- Tasks Management: "TASKS_MANAGEMENT_DIRECTORY_Ordered.md"
-- Case Management: "Case_Management.md"
+- Dashboard: "dashboard_directory_ordered.md"
+- Tasks Management: "task_amangement_directory_ordered.md"
+- Case Management: "case_management.md"
