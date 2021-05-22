@@ -8,11 +8,11 @@ jobs:
   build:
     name: Deploy page
     runs-on: ubuntu-latest
+    # https://squidfunk.github.io/mkdocs-material/publishing-your-site/
     steps:
-    - name: Checkout master
-      uses: actions/checkout@v1
-
-    - name: Deploy docs
-      uses: mhausenblas/mkdocs-deploy-gh-pages@master
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - run: pip install mkdocs-material
+      - run: mkdocs gh-deploy --force
