@@ -1,9 +1,5 @@
-theme:
-  language: fr
-
-
 nav:
 - Bonjour: "index.md"
-- 123: "dashboard_directory_ordered.md"
-- 345: "task_management_directory_ordered.md"
-- 678: "case_management.md"
+- hello: "dashboard_directory_ordered.md"
+- world: "task_management_directory_ordered.md"
+- test: "case_management.md"
