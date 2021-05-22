@@ -21,8 +21,9 @@ extra:
   palette:
     primary: 'cyan'
   social:
-  - icon: 'fontawesome/brands/github-alt'
-    link: 'https://github.com/hzi-braunschweig/SORMAS-Glossary'
+  - icon: 'fontawesome/brands/github-alt'    
+    link: 'https://hzi-braunschweig.github.io/SORMAS-Glossary/en/'
+    
 plugins:
 - search:
     separator: '[\s]+'
