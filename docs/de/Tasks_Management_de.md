@@ -1,4 +1,4 @@
-## AUFGABENVERWALTUNG INHALTSVERZEICHNIS
+## Hinweise
 
 Überwachungsaktivitäten und Ausbruchsreaktionen hängen häufig von der Koordination multidisziplinärer Teams ab. Eine breite Palette von Personen oder Benutzerrollen in einer Ausbruchsreaktion umfasst u.a. Krankenhausinformanten, Überwachungsbeauftragte, Überwachungsbeauftragte (staatliche Epidemiologen), Kontaktbeauftragte, Fallbeauftragte, Laborbeauftragte und Laborbeamte. Das Aufgabenmodul ermöglicht die Zuweisung und Verwaltung von Aufgaben in Echtzeit zwischen den verschiedenen Personen, was die Gesamteffizienz der Ausbruchsreaktion verbessert. Die Klassifizierung oder der Kontext einer Aufgabe kann allgemein oder einem Objekt zugeordnet sein (Fall, Kontakt, Ereignis).
 
@@ -18,7 +18,7 @@
 10. **Zugehöriger Fall/Kontakt/Ereignis:** Der Name des Objektes (Fall, Kontakt, Ereignis), über das man die Ergebnisliste entsprechend einzuschränken kann..
 11. **Zugewiesen an**: Der Name des Nutzers, der für die Ausführung der angegebenen Aufgabe verantwortlich ist.
 
-###Aufgabenverwaltung
+### Aufgabenverwaltung
 
 1.  **Aktive Aufgaben**: Das System lädt die aktiven Aufgaben standardmäßig, sobald ein Nutzer das Aufgabenverzeichnis öffnet.
 2.  **Alle**: Alle in SORMAS erstellten Aufgaben, unabhängig von der Benutzerrolle oder der Person, der die Aufgabe zugewiesen ist.
