@@ -1,8 +1,8 @@
-## **Brief Notes**
+## Brief Notes
 
 Most outbreak investigations require collecting samples for laboratory confirmation of the causative agent. These could be specimen from humans, animals, the environment, or any combination of these. Common human clinical specimens include blood, serum, stool, urine, saliva, sputum, throat swaps, nasopharyngeal swaps, and nasal swaps. The type of specimen collected depends on the disease under investigation, the nature of the outbreak, and purpose of laboratory investigation (eg. for diagnosis of cases, monitoring seroprevalence, etc). For zoonoses, similar specimen may be taken from vectors or hosts of suspected aetiological agents for purposes of identifying the source of the outbreak. The results of a well conducted laboratory investigation of a sample are as good (useful/valid) as the appropriateness and quality of the sample.
 
-### **Overview of the SORMAS Sample Entity**
+### Overview of the SORMAS Sample Entity
 
 - The type of samples documented are     specific to the disease in question.
 - A case can have more than one sample documented     to be used for diagnosis of a     disease.
@@ -11,7 +11,7 @@ Most outbreak investigations require collecting samples for laboratory confirmat
 - Each sample can be created by linking it     to an entity (case, contact, event participants, etc) and hence carries     the unique ID of the entity.
 - Samples can be referred to other     laboratories for further testing within SORMAS.
 
-### **Sample Directory: Samples View**
+### Sample Directory: Samples View
 
 1. **Active samples:** To display the list of active samples. Active samples are samples associated to active entities (case, contact, etc.).
 
@@ -79,7 +79,7 @@ Most outbreak investigations require collecting samples for laboratory confirmat
 
 33. **Test result:** To filter samples by the final outcome of laboratory tests namely, indeterminate, pending, negative, positive, and not done.
 
-### **Sample Directory: Lab Messages View**
+### Sample Directory: Lab Messages View
 
 1. **Fetch Lab messages:** To import lab messages from an external system.
 
@@ -111,7 +111,7 @@ Most outbreak investigations require collecting samples for laboratory confirmat
 
 15. **UUID:** A system-generated universally unique identifier for the sample.
 
-### **Sample Entity**
+### Sample Entity
 
 1. **Comment:** Any comments relevant to the samples being processed.
 
@@ -151,7 +151,7 @@ Most outbreak investigations require collecting samples for laboratory confirmat
 
 19. **Type of sample:** To specify the type of sample collected or tested e.g., nasal swap, blood, serum, stool, etc.
 
-### **Create New Pathogen Test Result**
+### Create New Pathogen Test Result
 
 1. **CQ/CT value:** The quantification cycle or threshold cycle value of the PCR test.
 
@@ -175,7 +175,7 @@ Most outbreak investigations require collecting samples for laboratory confirmat
 
 11. **Typing ID:** The PCR typing identity of the sample.
 
-### **Create New Additional Test Results**
+### Create New Additional Test Results
 
 1. **ALT/SGPT (umol/L):** The alanine aminotransferase (serum glutamic-pyruvic transaminase) concentration of the blood sample.
 
