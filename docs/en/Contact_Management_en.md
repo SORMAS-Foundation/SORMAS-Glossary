@@ -4,7 +4,7 @@ A contact is an exposure of a non infected person (contact person) to an infecte
 
 An important and indispensable strategy for controlling the spread of an infectious disease outbreaks is contact tracing. Contact tracing  helps to identify and break chains of transmission. However, in order to reap the full benefit of contact tracing, it has to be systematically applied. Contact tracing involves three sequential activities viz. contact identification, contact listing and classification, contact follow-up (monitoring for disease onset).
 
-### `Contact` Directory: Default and Detailed Views 
+### Contact Directory: Default and Detailed Views 
 
 1.	**Active contacts:** To display the list of active contacts. Active contacts are those that are still under investigation or follow-up.
 2.	**All:** A default display of the list of all contacts (the complete contact list).
